@@ -1,4 +1,4 @@
-# 10-Web-Development-Project-Ideas-for-2025
+# 10 Web Development Project Ideas for 2025
 Top 10 Web development projects With Code, Documents and Video Tutorial
 
 ![10](https://github.com/user-attachments/assets/07ce89d7-25dd-4db5-99cf-d095d44f786b)
